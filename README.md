@@ -10,7 +10,7 @@ Building scalable systems, automation platforms and high-quality software.
 
 ## Github Analytics
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welpeth&layout=compact&hide_border=true" /> </p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Welpeth&show_icons=true&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welpeth&layout=compact&hide_border=true" /> </p>
 
 ---
 
