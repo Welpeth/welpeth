@@ -41,13 +41,16 @@ I enjoy solving complex business problems through clean and maintainable solutio
 - Spring Data JPA
 - Hibernate
 - Maven
-- Microservices Architecture
+- TypeScript
+- Python
 
 ### Frontend Development
 - Vue.js
 - Vuetify
 - JavaScript
 - Responsive Interfaces
+- React
+- NextJs
 
 ### Data & Persistence
 - PostgreSQL
