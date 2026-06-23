@@ -1,86 +1,53 @@
 <h1 align="center">Henrique Pereira</h1>
-
 <p align="center">
-Software Engineer • Backend & Platform Engineering • Architecture Enthusiast
+  Software Engineer • Backend & Platform Engineering • Architecture Enthusiast
 </p>
 
+---
+
+### About Me
+
+Software Engineer focado em projetar e evoluir sistemas escaláveis, com forte ênfase em arquitetura, qualidade de código e automação. Atuo de backend a frontend, passando por CI/CD, integrações e confiabilidade de plataforma.
+
+---
+
+### Tech Stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend**
+
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### Engineering Principles
+
+`Simplicidade` · `Automação` · `Observabilidade` · `Manutenibilidade` · `Confiabilidade`
+
+---
+
+### GitHub Analytics
+
 <p align="center">
-Building scalable systems, automation platforms and high-quality software.
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welpeth&layout=compact&hide_border=true" />
 </p>
-
-## Github Analytics
-
-<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welpeth&layout=compact&hide_border=true" /> </p>
-
----
-
-## About Me
-
-I'm a Software Engineer focused on designing and evolving scalable systems with strong emphasis on software architecture, code quality, automation and operational excellence.
-
-My experience spans backend development, frontend applications, CI/CD pipelines, integrations, performance optimization and platform reliability.
-
-I enjoy solving complex business problems through clean and maintainable solutions while continuously improving engineering processes and development workflows.
-
----
-
-## Core Expertise
-
-### Software Engineering
-- Domain Driven Design (DDD)
-- Clean Architecture
-- SOLID Principles
-- Design Patterns
-- Event-Driven Systems
-- REST API Design
-- System Integration
-
-### Backend Development
-- Java
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- Maven
-- TypeScript
-- Python
-
-### Frontend Development
-- Vue.js
-- Vuetify
-- JavaScript
-- Responsive Interfaces
-- React
-- NextJs
-
-### Data & Persistence
-- PostgreSQL
-- MySQL
-- Query Optimization
-- Data Modeling
-
-### DevOps & Platform Engineering
-- Docker
-- GitHub Actions
-- CI/CD Pipelines
-- Linux
-- Infrastructure Automation
-
-### Code Quality & Security
-- Unit Testing
-- Integration Testing
-- SonarQube
-- CodeQL
-- Static Code Analysis
-- Secure Development Practices
-
----
-
-## Engineering Principles
-
-```text
-✔ Simplicity over complexity
-✔ Automation over manual processes
-✔ Observability over assumptions
-✔ Maintainability over shortcuts
-✔ Reliability over convenience
-✔ Business value over technical vanity
