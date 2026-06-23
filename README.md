@@ -1,6 +1,8 @@
 <h1 align="center">Henrique Pereira</h1>
 <p align="center">
   Software Engineer • Backend & Platform Engineering • Architecture Enthusiast
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Welpeth&style=flat" />
 </p>
 
