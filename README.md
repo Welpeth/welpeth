@@ -1,6 +1,7 @@
 <h1 align="center">Henrique Pereira</h1>
 <p align="center">
   Software Engineer • Backend & Platform Engineering • Architecture Enthusiast
+  <img src="https://komarev.com/ghpvc/?username=Welpeth&style=flat" />
 </p>
 
 ---
@@ -53,6 +54,5 @@ Software Engineer focado em projetar e evoluir sistemas escaláveis, com forte �
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welpeth&layout=compact&hide_border=true" />
-  <img src="https://komarev.com/ghpvc/?username=Welpeth&style=flat" />
   <img src="https://streak-stats.demolab.com?user=Welpeth&hide_border=true" />
 </p>
