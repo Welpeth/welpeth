@@ -55,6 +55,6 @@ Software Engineer focado em projetar e evoluir sistemas escal√°veis, com forte √
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welpeth&layout=compact&hide_border=true&theme=vue-dark" />
-  <img src="https://streak-stats.demolab.com?user=Welpeth&hide_border=true&theme=vue-dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welpeth&layout=compact&hide_border=true&theme=vue-dark" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Welpeth&hide_border=true&theme=vue-dark" />
 </p>
